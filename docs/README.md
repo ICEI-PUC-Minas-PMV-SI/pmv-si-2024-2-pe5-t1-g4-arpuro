@@ -17,7 +17,7 @@
 
 > Phelipe Antunes
 
-- Configuração de uma VPN no Cisco Packet Tracer com todas as interfaces e roteadores devidamente conectados e operacionais. Além disso, contribuí fazendo a orçamentação de custos do projeto, preenchendo a planilha e na criação do vídeo explicativo do projeto.
+- Configuração de uma VPN no Cisco Packet Tracer com todas as interfaces e roteadores devidamente conectados e operacionais. Além disso, contribuí fazendo a orçamentação de custos do projeto e preenchendo a planilha.
 
 
 Apresentação do Packet Tracer: https://www.youtube.com/watch?v=aTBGxrRPlZc
