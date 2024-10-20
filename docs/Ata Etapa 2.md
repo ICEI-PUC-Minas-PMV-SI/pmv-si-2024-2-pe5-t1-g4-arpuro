@@ -20,4 +20,5 @@
 - Documentação completa com prints dos servidores locais, serviços instalados, e tabela dos servidores em nuvem com nomes, IPs e usuários de acesso.
 
 > Phelipe Antunes
-- 
+-  Realizou a configuração dos serviços de FTP utilizando máquina Linux/Ubunto em nuvem dos serviços da aws.
+  - Video explicativo - https://www.youtube.com/watch?v=ULQz6b3egO8
