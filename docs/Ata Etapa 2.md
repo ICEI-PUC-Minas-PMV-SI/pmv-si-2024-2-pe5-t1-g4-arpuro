@@ -16,7 +16,7 @@
 - 
 
 > Katryn Ribeiro de Jesus Oliveira 
-- 
+- Documentação completa com prints dos servidores locais, serviços instalados, e tabela dos servidores em nuvem com nomes, IPs e usuários de acesso.
 
 > Phelipe Antunes
 - 
