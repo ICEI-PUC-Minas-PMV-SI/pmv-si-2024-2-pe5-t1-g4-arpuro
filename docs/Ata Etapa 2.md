@@ -3,7 +3,8 @@
 -
  
 > Caio Ignatz 
--
+- Criou imagem docker de uma API Python FastAPI
+- Fez deploy da API em uma instância AWS EC2
 
 > Gabriel Víctor Guimarães Xavier
 
