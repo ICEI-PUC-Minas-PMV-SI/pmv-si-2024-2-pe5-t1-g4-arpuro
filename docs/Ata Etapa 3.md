@@ -22,4 +22,5 @@
 
 > Katryn Ribeiro de Jesus Oliveira
 
-- Revisou e atualizou a documentação, incorporando as sugestões de aprimoramento indicadas pelo professor para otimizar a precisão das informações.
+- Revisou e atualizou a documentação, incorporando as sugestões de aprimoramento indicadas pelo professor para 
+otimizar a precisão das informações.
