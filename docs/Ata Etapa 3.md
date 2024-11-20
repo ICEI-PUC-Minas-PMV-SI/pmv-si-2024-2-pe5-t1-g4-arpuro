@@ -13,3 +13,9 @@
 - Configuração do Zabbix Agent no servidor de DHCP / VoIP
 - Customização de widget / monitoramento do dashboard do Zabbix
 - Atualização do documento sobre os monitoramentos do servidor de VoIP e DHCP
+
+> Iago Oliveira de Almeida
+
+- Configuração de Zabbix Server (utilizando Appliance / VirtualBox) e Configuração Agente SNMP no Windows Server
+- Customização de widget / monitoramento do dashboard do Zabbix
+- Atualização do documento sobre os monitoramentos do servidor de AD/DNS
