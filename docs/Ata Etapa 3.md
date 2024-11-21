@@ -1,5 +1,8 @@
 ### Relatório de Atividades - Projeto Ar Puro MG - Etapa 3
 
+> Abel Leony Macedo da Paixão
+-
+
 > Caio Ignatz
 
 - Configurou agente, servidor e banco de dados do Zabbix em uma instância AWS EC2
@@ -24,3 +27,8 @@
 
 - Revisou e atualizou a documentação, incorporando as sugestões de aprimoramento indicadas pelo professor para 
 otimizar a precisão das informações.
+
+> Phelipe Silva
+- Configurou agente, servidor e banco de dados do Zabbix em uma instância AWS EC2
+- Configurou GUI Zabbix web e a disponibilizou em ec2-54-205-163-139.compute-1.amazonaws.com
+- Tentei vincular o monitoramento do FTP seguindo os materiais dispostos, mas sem conclusão.
