@@ -9,5 +9,6 @@
 > Iago Oliveira de Almeida
 
 > Katryn Ribeiro de Jesus Oliveira
+-   Criação da estrutura visual e o design da cartilha 
 
 > Abel Leony Macedo da Paixão
