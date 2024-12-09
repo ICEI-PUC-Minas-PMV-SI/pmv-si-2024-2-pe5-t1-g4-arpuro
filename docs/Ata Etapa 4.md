@@ -13,4 +13,7 @@
 > Katryn Ribeiro de Jesus Oliveira
 -   Criação da estrutura visual e o design da cartilha 
 
+> Phelipe Silva
+-   Apoio ao Caio para desenvolver aplicação backend
+
 > Abel Leony Macedo da Paixão
