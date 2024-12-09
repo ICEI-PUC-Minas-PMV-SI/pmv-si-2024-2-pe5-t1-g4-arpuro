@@ -32,3 +32,6 @@ otimizar a precisão das informações.
 - Configurou agente, servidor e banco de dados do Zabbix em uma instância AWS EC2
 - Configurou GUI Zabbix web e a disponibilizou em ec2-54-205-163-139.compute-1.amazonaws.com
 - Tentei vincular o monitoramento do FTP seguindo os materiais dispostos, mas sem conclusão.
+> Abel Leony Macedo da Paixão
+
+- Desenvolvimento de Banco de Dados e deploy em Container Docker. (Não finalizado)
