@@ -8,6 +8,8 @@
 
 > Iago Oliveira de Almeida
 
+- Contribuí para a elaboração da Política de Segurança da Informação (PSI)
+
 > Katryn Ribeiro de Jesus Oliveira
 -   Criação da estrutura visual e o design da cartilha 
 
