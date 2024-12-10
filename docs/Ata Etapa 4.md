@@ -17,3 +17,4 @@
 -   Apoio ao Caio para desenvolver aplicação backend
 
 > Abel Leony Macedo da Paixão
+- Criação de textos, estruturação e design da cartilha.
