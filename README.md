@@ -12,7 +12,6 @@ A ONG Ar Puro MG realiza medições e monitoramento contínuos da qualidade do a
 ## Integrantes
 
 * Abel Leony Macedo da Paixão
-* Caio Ignatz Martins
 * Gabriel Víctor Guimarães Xavier
 * Iago Oliveira de Almeida
 * Katryn Ribeiro de Jesus Oliveira
